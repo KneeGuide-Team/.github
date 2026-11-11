@@ -184,8 +184,8 @@ Public repositories are viewable by everyone. Only explicitly authorized organiz
 | Team member | Role |
 |---|---|
 | **Rakan Alshwihani** | Team Leader — Clinical & Medical Domain |
-| **Eng. Fahad Alshwihani** | Software Engineer — Full-Stack Development, Backend Engineering & System Architecture |
-| **Abdulaziz Alshwihani** | Software Engineering & UI/UX Design |
+| **Eng. Fahad Alshwihani** | Lead Software Engineer — Full-Stack Systems, Backend Engineering, System Integration, Architecture & UX/UI Design |
+| **Abdulaziz Alshwihani** | IoT & Hardware — Wearable Sensor Prototype and Device Integration |
 
 ### Software development credit
 
